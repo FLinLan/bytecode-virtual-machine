@@ -1,6 +1,12 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C_Cpp.errorSquiggles": "disabled"
+=======
+    "files.associations": {
+        "memory.h": "c"
+    }
+>>>>>>> 7dddff8 (added disassemble and assemble function for debug and created chunk struct)
 =======
     "files.associations": {
         "memory.h": "c"

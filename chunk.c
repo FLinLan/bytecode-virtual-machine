@@ -1,8 +1,6 @@
 #include <stdlib.h>
-<<<<<<< HEAD
-=======
 #include "memory.h"
->>>>>>> 7dddff8 (added disassemble and assemble function for debug and created chunk struct)
+#include "memory.h"
 #include "chunk.h"
 
 void initChunk(Chunk* chunk) {
@@ -22,5 +20,4 @@ void writeChunk(Chunk* chunk, uint8_t byte) {
     chunk->count++;
 
 }
-
 
